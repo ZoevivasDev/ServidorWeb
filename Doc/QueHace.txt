@@ -1,0 +1,21 @@
+Program(punto de entrada) = Carga la configuracion, abre el socket TCP y lanza un hilo por cada conexion, es el punto de entrada del servidor web. 
+
+ManejorConexiones(ciclo de vida) = atiende una sola conexion de principio a fin, cada instancia vive su pripio hilo, cube los requisitos de GET,POST, 404,Query params,log.
+
+config(configuracion) = puertos y carpetaraiz definidas.
+
+configuracion(config expuesta) = lee el config y expone su contenido al sistema. 
+
+Archivos de Frontend(contenido) = index y 404, Se muestran por pantalla.
+
+loggers(log diarios) = Escribe cada solicitud por dia, incluye la ip y usa locks.  
+
+respuestasHttp = Construye la respuestas Http y la envia a comprimida por el socket.
+
+solicitudeshttp = Representa una soli http parseada desde el texto crudo del socket, extrae metodos,rutas,query params y cuerpo del post. 
+
+servidorWb = archivo del configuracion del proyecto .NET le dice al compilador que tipo de proyecto ejecuta y que version de .net usa. 
+
+gitignore = lista de carpetas y archvivos que Git debe ignorar al subir el proyecto. Como por ejemplo bin y obj, los logs generados al ejecutar y archvivos propios.
+
+

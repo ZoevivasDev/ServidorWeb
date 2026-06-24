@@ -1,0 +1,15 @@
+/home/cho/Escritorio/ServidorWeb/bin/Debug/net8.0/ServidorWeb
+/home/cho/Escritorio/ServidorWeb/bin/Debug/net8.0/ServidorWeb.deps.json
+/home/cho/Escritorio/ServidorWeb/bin/Debug/net8.0/ServidorWeb.runtimeconfig.json
+/home/cho/Escritorio/ServidorWeb/bin/Debug/net8.0/ServidorWeb.dll
+/home/cho/Escritorio/ServidorWeb/bin/Debug/net8.0/ServidorWeb.pdb
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ServidorWeb.GeneratedMSBuildEditorConfig.editorconfig
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ServidorWeb.AssemblyInfoInputs.cache
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ServidorWeb.AssemblyInfo.cs
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ServidorWeb.csproj.CoreCompileInputs.cache
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ServidorWeb.sourcelink.json
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ServidorWeb.dll
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/refint/ServidorWeb.dll
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ServidorWeb.pdb
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ServidorWeb.genruntimeconfig.cache
+/home/cho/Escritorio/ServidorWeb/obj/Debug/net8.0/ref/ServidorWeb.dll
